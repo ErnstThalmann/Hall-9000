@@ -1,2 +1,8 @@
+#include<iostream>
 
-cout>>"Hello Konstantin Konstantinovich..."
+using namespace std;
+
+int main{
+  cout>>"Hello Konstantin Konstantinovich...";
+  return 0;
+}
